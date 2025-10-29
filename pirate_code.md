@@ -39,5 +39,5 @@ X.    Any man deserting the ship in battle or rewriting history on the
   above, so you get your fair share of the prize!
 
 Captain      : caterina
-Quartermaster: NAME HERE
+Quartermaster: edo
 First mate   : edo
