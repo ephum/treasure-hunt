@@ -40,4 +40,4 @@ X.    Any man deserting the ship in battle or rewriting history on the
 
 Captain      : NAME HERE
 Quartermaster: NAME HERE
-First mate   : NAME HERE
+First mate   : edo
